@@ -20,13 +20,14 @@ You can also control the teletype using physical buttons connected to GPIO pins.
 ## Requirements
 ```bash
 pip install -r requirements.txt
+```
 
-## Run
+## Usage
 ```bash
 python3 src/main.py
+```
 
 ## Collaborations
-
 If you want to collaborate, please drop a request @ riccardo.tonon@gmail.com
 
 

@@ -1,0 +1,96 @@
+  0 0x00 NUL Null
+  1 0x01 SOH Start of Header
+  2 0x02 STX Start of Text
+  3 0x03 ETX End of Text
+  4 0x04 EOT End of Transmission
+  5 0x05 ENQ Enquiry
+  6 0x06 ACK Acknowledge
+  7 0x07 BEL Bell
+  8 0x08 BS Backspace
+  9 0x09 HT Horizontal Tab
+ 10 0x0A LF Line Feed
+ 11 0x0B VT Vertical Tab
+ 12 0x0C FF Form Feed
+ 13 0x0D CR Carriage Return
+ 14 0x0E SO Shift Out
+ 15 0x0F SI Shift In
+ 16 0x10 DLE Data Link Escape
+ 17 0x11 DC1 Device Control 1
+ 18 0x12 DC2 Device Control 2
+ 19 0x13 DC3 Device Control 3
+ 20 0x14 DC4 Device Control 4
+ 21 0x15 NAK Negative Acknowledge
+ 22 0x16 SYN Synchronous Idle
+ 23 0x17 ETB End of Transmission Block
+ 24 0x18 CAN Cancel
+ 25 0x19 EM End of Medium
+ 26 0x1A SUB Substitute
+ 27 0x1B ESC Escape
+ 28 0x1C FS File Separator
+ 29 0x1D GS Group Separator
+ 30 0x1E RS Record Separator
+ 31 0x1F US Unit Separator
+ 32 0x20 SP Space
+ 65 0x41 'A' Printable
+ 66 0x42 'B' Printable
+ 67 0x43 'C' Printable
+ 68 0x44 'D' Printable
+ 69 0x45 'E' Printable
+ 70 0x46 'F' Printable
+ 71 0x47 'G' Printable
+ 72 0x48 'H' Printable
+ 73 0x49 'I' Printable
+ 74 0x4A 'J' Printable
+ 75 0x4B 'K' Printable
+ 76 0x4C 'L' Printable
+ 77 0x4D 'M' Printable
+ 78 0x4E 'N' Printable
+ 79 0x4F 'O' Printable
+ 80 0x50 'P' Printable
+ 81 0x51 'Q' Printable
+ 82 0x52 'R' Printable
+ 83 0x53 'S' Printable
+ 84 0x54 'T' Printable
+ 85 0x55 'U' Printable
+ 86 0x56 'V' Printable
+ 87 0x57 'W' Printable
+ 88 0x58 'X' Printable
+ 89 0x59 'Y' Printable
+ 90 0x5A 'Z' Printable
+ 48 0x30 '0' Printable
+ 49 0x31 '1' Printable
+ 50 0x32 '2' Printable
+ 51 0x33 '3' Printable
+ 52 0x34 '4' Printable
+ 53 0x35 '5' Printable
+ 54 0x36 '6' Printable
+ 55 0x37 '7' Printable
+ 56 0x38 '8' Printable
+ 57 0x39 '9' Printable
+ 58 0x3A ':' Printable
+ 59 0x3B ';' Printable
+ 60 0x3C '<' Printable
+ 61 0x3D '=' Printable
+ 62 0x3E '>' Printable
+ 63 0x3F '?' Printable
+ 33 0x21 '!' Printable
+ 35 0x23 '#' Printable
+163 0xA3 '£' Printable
+ 37 0x25 '%' Printable
+ 38 0x26 '&' Printable
+ 39 0x27 ''' Printable
+ 40 0x28 '(' Printable
+ 41 0x29 ')' Printable
+ 42 0x2A '*' Printable
+ 43 0x2B '+' Printable
+ 44 0x2C ',' Printable
+ 45 0x2D '-' Printable
+ 46 0x2E '.' Printable
+ 47 0x2F '/' Printable
+ 64 0x40 '@' Printable
+ 91 0x5B '[' Printable
+ 36 0x24 '$' Printable
+ 93 0x5D ']' Printable
+ 94 0x5E '^' Printable
+ 34 0x22 '"' Printable
+ 95 0x5F '_' Printable
