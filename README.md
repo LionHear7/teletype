@@ -19,7 +19,10 @@ You can also control the teletype using physical buttons connected to GPIO pins.
 
 ## Requirements
 ```bash
-pip install -r requirements.txt
+
+python3 -m venv .teletype
+source .teletype/bin/activate
+pip3 install -r requirements.txt
 ```
 
 ## Usage

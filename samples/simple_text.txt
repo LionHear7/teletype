@@ -1,0 +1,10 @@
+SAMPLE TEXT
+============
+
+HELLO WORLD!
+THIS IS A TEST MESSAGE TYPED ON A TELETYPE ASR-33.
+CARRIAGE RETURN AND LINE FEED SIMULATED.
+0123456789 :;<=>? @£$%^&*_
+
+HELLO OPERATOR THIS IS A TEST BELL.
+(If your terminal supports BEL, you should hear a beep!)

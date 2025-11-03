@@ -2,7 +2,7 @@ import RPi.GPIO as GPIO
 import time
 
 # --- CONFIGURE PINS ---
-PINS = [17, 18, 22, 27]  # List of BCM pins to test
+PINS = [4, 5, 12, 13, 16, 17, 18, 20, 21, 22, 23, 24, 25, 26, 27]  # List of BCM pins to test
 PULL = GPIO.PUD_DOWN      # Use PUD_UP if buttons are connected to 3.3V
 
 GPIO.setmode(GPIO.BCM)
